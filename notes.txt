@@ -1,0 +1,3 @@
+html-webpack-plugin
+    копирует html файл в dist и прописывает script таг в результирующем html
+
